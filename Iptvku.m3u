@@ -1081,7 +1081,6 @@ https://maling.pl/7464.mpd
 
 
 
-
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/indosiar.jpg?raw=true" group-title="5. Vision⁺", INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1172,13 +1171,15 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/tvri.jpg?raw=true" group-title="5. Vision⁺", TVRI 
+#EXTINF:-1 tvg-id="SindoNews.id" tvg-name="SindoNews.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sindonews.jpg?raw=true" group-title="5. Vision⁺", SINDO NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=5
+https://ayo.maling.pl/Vision/index.mpd?id=5
 
 
 #EXTINF:-1 tvg-id="TRANS TV.id" tvg-name="TRANS TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/transtv.jpg?raw=true" group-title="5. Vision⁺", TRANS TV 
@@ -1251,6 +1252,54 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 
+#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rtv.jpg?raw=true" group-title="5. Vision⁺", RTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=11
+https://ayo.maling.pl/Vision/index.mpd?id=11
+
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/btv.jpg?raw=true" group-title="5. Vision⁺", BTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=15
+https://ayo.maling.pl/Vision/index.mpd?id=15
+
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/tvri.jpg?raw=true" group-title="5. Vision⁺", TVRI 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
+
+
+#EXTINF:-1 tvg-id="DAAI TV.id" tvg-name="DAAI TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/daaitv.jpg?raw=true" group-title="5. Vision⁺", DAAI TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=18
+https://ayo.maling.pl/Vision/index.mpd?id=18
+
+
+#EXTINF:-1 tvg-id="Jaktv.id" tvg-name="Jaktv.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jaktv.jpg?raw=true" group-title="5. Vision⁺", JAKTV 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=25
+https://ayo.maling.pl/Vision/index.mpd?id=25
+
+
 #EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jtv.jpg?raw=true" group-title="5. Vision⁺", JTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1259,6 +1308,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
+
+
+#EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/balitv.jpg?raw=true" group-title="5. Vision⁺", BALI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=26
+https://ayo.maling.pl/Vision/index.mpd?id=26
 
 
 #EXTINF:-1 tvg-id="TV 9.id" tvg-name="TV 9.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/religion/tv9.jpg?raw=true" group-title="5. Vision⁺", TV 9
@@ -1279,6 +1338,17 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94f0b3d645c64f0dbe2e0990ec290cdf:0dc311915f9decffaf7dfee30c4d8482
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
+
+
+#EXTINF:-1 tvg-id="DMI TV.id" tvg-name="DMI TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/religion/dmitv.jpg?raw=true" group-title="5. Vision⁺", DMI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=29
+https://ayo.maling.pl/Vision/index.mpd?id=29
+
 
 
 
