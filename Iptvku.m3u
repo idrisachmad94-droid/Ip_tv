@@ -21,7 +21,8 @@ http://103.148.44.38:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/moji.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MOJI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/4.ts
+#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/4.ts
+http://filex.me:8080/live/ch78978977/77899787ch/302279.ts
 
 
 #EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/mentaritv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MENTARI TV 
@@ -38,12 +39,14 @@ http://202.169.224.202:8800/udp/239.1.1.1:1234
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="1. Nasional ᴴᴰ", RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/6.ts
+#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/6.ts
+http://filex.me:8080/live/ch78978977/77899787ch/302297.m3u8
 
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MNCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/7.ts
+#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/7.ts
+http://filex.me:8080/live/ch78978977/77899787ch/302278.ts
 
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/gtv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", GTV 
