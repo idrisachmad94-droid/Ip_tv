@@ -1400,13 +1400,13 @@ http://103.148.44.38:8000/play/a09d/index.m3u8
 http://103.148.44.38:8000/play/a02m/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBO Signature.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbo.jpg?raw=true" group-title="6. Film", HBO SIGNATURE 
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBO Signature.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbosig.jpg?raw=true" group-title="6. Film", HBO SIGNATURE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-http://filex.me:8080/live/ch78978977/77899787ch/302247.m3u8
+http://filex.me:8080/live/ch78978977/77899787ch/302251.m3u8
 
 
 #EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/warner.jpg?raw=true" group-title="6. Film", WARNER TV 
