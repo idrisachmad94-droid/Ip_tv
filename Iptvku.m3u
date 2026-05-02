@@ -1011,7 +1011,8 @@ https://ratu77.adptv.workers.dev/index.mpd?id=6441&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#https://ratu77.adptv.workers.dev/index.mpd?id=9714&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjLzNHSFlORS85NzE0LnFlenwxNzc4MzcwNjc2
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjLzNHSFlORS85NzE0LnpjcXwxNzc4MzcwNjc2
 
 
 #EXTINF:-1 tvg-id="MUSICA.id" tvg-name="MUSICA.id"  tvg-logo="https://drive.google.com/uc?export=download&id=1uMC84ucxZdEaFE--vGua5JTC1tGCdmmh" group-title="4. Vidio", MUSICA
