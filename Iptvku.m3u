@@ -523,14 +523,14 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sctv.jpg?raw=true" group-title="3. MaxStream ᵗᵛ", SCTV 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/mentaritv.jpg?raw=true" group-title="3. MaxStream ᵗᵛ", MENTARI TV 
@@ -564,35 +564,35 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true" group-title="3. MaxStream ᵗᵛ", MNCTV 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/gtv.jpg?raw=true" group-title="3. MaxStream ᵗᵛ", GTV 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/inews.jpg?raw=true" group-title="3. MaxStream ᵗᵛ", INEWS 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-id="SindoNews.id" tvg-name="SindoNews.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sindonews.jpg?raw=true" group-title="3. MaxStream ᵗᵛ", SINDO NEWS TV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mdtv.jpg?raw=true" group-title="3. MaxStream ᵗᵛ", MDTV 
