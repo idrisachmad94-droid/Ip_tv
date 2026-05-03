@@ -2246,7 +2246,7 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1BN9SeHMIyt2jAEJMZVw2nXLl3KY3TejP" group-title="9. Olahraga",Now  Sports Premiere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112200.m3u8
 
 
 #EXTINF:-1 group-title="9. Olahraga" group-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png" tvg-logo="https://drive.google.com/uc?export=download&id=1fOoJHBaYXZXX1mvyOeLOVOsx1lckzLqj",TNT SPORTS 1
