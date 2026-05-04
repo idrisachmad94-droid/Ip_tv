@@ -1315,8 +1315,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/in
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-http://103.148.44.38:8000/play/a01u/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+#http://103.148.44.38:8000/play/a01u/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbo.jpg?raw=true" group-title="6. Film", HBO 
@@ -1324,8 +1324,8 @@ http://103.148.44.38:8000/play/a01u/index.m3u8
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-http://103.148.44.38:8000/play/a09a/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#http://103.148.44.38:8000/play/a09a/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbofam.jpg?raw=true" group-title="6. Film", HBO FAMILY 
@@ -1335,8 +1335,8 @@ http://103.148.44.38:8000/play/a09a/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff67b52d6c5e4a769f8aba596633b821:fbccc3d9c3a5da07af6469a007defe88
-#https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbofamily/manifest.mpd
-http://103.148.44.38:8000/play/a09d/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbofamily/manifest.mpd
+#http://103.148.44.38:8000/play/a09d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbohits.jpg?raw=true" group-title="6. Film", HBO HITS 
@@ -1344,8 +1344,8 @@ http://103.148.44.38:8000/play/a09d/index.m3u8
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
-http://103.148.44.38:8000/play/a02m/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#http://103.148.44.38:8000/play/a02m/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBO Signature.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbosig.jpg?raw=true" group-title="6. Film", HBO SIGNATURE 
@@ -1353,8 +1353,8 @@ http://103.148.44.38:8000/play/a02m/index.m3u8
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-http://filex.me:8080/live/ch78978977/77899787ch/302251.ts
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#http://filex.me:8080/live/ch78978977/77899787ch/302251.ts
 
 
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/cinemax.jpg?raw=true" group-title="6. Film", CINEMAX 
@@ -1362,8 +1362,8 @@ http://filex.me:8080/live/ch78978977/77899787ch/302251.ts
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
-http://103.148.44.38:8000/play/a09e/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#http://103.148.44.38:8000/play/a09e/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Rock Action.id" tvg-name="Rock Action.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/rockaction.jpg?raw=true" group-title="6. Film", ROCK ACTION
@@ -1433,8 +1433,8 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
-http://103.148.44.38:8000/play/a01g/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
+#http://103.148.44.38:8000/play/a01g/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Hits Movies.id" tvg-name="Hits Movies.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hitsmovies.jpg" group-title="6. Film", HITS MOVIES 
@@ -1497,8 +1497,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
-http://103.148.44.38:8000/play/a01i/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+#http://103.148.44.38:8000/play/a01i/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/kplus.jpg?raw=true" group-title="7. Hiburan", K+ 
@@ -1506,8 +1506,8 @@ http://103.148.44.38:8000/play/a01i/index.m3u8
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-http://103.148.44.38:8000/play/a05s/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+#http://103.148.44.38:8000/play/a05s/index.m3u8
 
 
 #EXTINF:-1 tvg-id="One.id" tvg-name="One.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/one.jpg?raw=true" group-title="7. Hiburan", ONE 
@@ -1552,8 +1552,8 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
-http://103.148.44.38:8000/play/a09m/index.m3u8
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+#http://103.148.44.38:8000/play/a09m/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Chinese Drama.id" tvg-name="Chinese Drama.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/chinesedrama.jpg?raw=true" group-title="7. Hiburan", CHINESE DRAMA
@@ -1595,8 +1595,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-#https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
-http://103.148.44.38:8000/play/a09o/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
+#http://103.148.44.38:8000/play/a09o/index.m3u8
 
 
 #EXTINF:-1 tvg-id="IMC (Indonesia Movie Channel).id" tvg-name="IMC (Indonesia Movie Channel).id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/imc.jpg?raw=true" group-title="7. Hiburan", IMC 
@@ -1901,7 +1901,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkey
 
 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon.Network.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/cn.jpg?raw=true" group-title="8. Anak-anak",CARTOON NETWORK 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.148.44.38:8000/play/a06u/index.m3u8
+#http://103.148.44.38:8000/play/a06u/index.m3u8
+http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://drive.google.com/uc?export=download&id=1gLY9Sv628ldmN662rw9ztSYUwfzutekV" group-title="8. Anak-anak",KIDSFLIX
