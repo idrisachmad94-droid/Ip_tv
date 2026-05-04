@@ -27,12 +27,12 @@ http://103.148.44.38:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/moji.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MOJI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://filex.me:8080/live/ch78978977/77899787ch/302279.ts
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/4.ts
 
 
 #EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/mentaritv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MENTARI TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/5.ts
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/5.ts
 
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mdtv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MDTV 
@@ -44,22 +44,22 @@ http://202.169.224.202:8800/udp/239.1.1.1:1234
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="1. Nasional ᴴᴰ", RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://filex.me:8080/live/ch78978977/77899787ch/302297.m3u8
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/6.ts
 
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MNCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://filex.me:8080/live/ch78978977/77899787ch/302278.ts
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/7.ts
 
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/gtv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", GTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://filex.me:8080/live/ch78978977/77899787ch/302247.ts
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/8.ts
 
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/inews.jpg?raw=true" group-title="1. Nasional ᴴᴰ", INEWS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/11.ts
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/11.ts
 
 
 #EXTINF:-1 tvg-id="DAAI TV.id" tvg-name="DAAI TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/daaitv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", DAAI TV 
@@ -217,7 +217,7 @@ http://202.169.224.202:8800/udp/239.1.3.1:1234
 
 #EXTINF:-1 tvg-id="Jawa Pos TV.id" tvg-name="Jawa Pos TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jawapost.jpg?raw=true" group-title="1. Nasional ᴴᴰ",  JAWAPOS TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/78.ts
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/78.ts
 
 
 #EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jtv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", JTV 
@@ -229,7 +229,7 @@ http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/antaratv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", ANTARA TV  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/24.ts
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/24.ts
 
 
 #EXTINF:-1 tvg-id="Jakarta Globe.id" tvg-name="Jakarta Globe.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/news/jakartaglobe.jpg" group-title="1. Nasional ᴴᴰ", JAKARTA GLOBE 
