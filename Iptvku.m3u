@@ -1518,8 +1518,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94916fa7ad4c44ad83b1175956adaa05:df19614d4f9f9fe836590d8d98ab2699
-https://cdn08jtedge.indihometv.com/dassdvr/134/sone/manifest.mpd
-#http://103.148.44.38:8000/play/a01v/index.m3u8
+#https://cdn08jtedge.indihometv.com/dassdvr/134/sone/manifest.mpd
+http://103.148.44.38:8000/play/a01v/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TVN.id" tvg-name="TVN.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/tvn.jpg?raw=true" group-title="7. Hiburan", TVN 
@@ -1527,8 +1527,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/sone/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
-http://103.58.160.157:8278/720-TVN/playlist.m3u8
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+#http://103.58.160.157:8278/720-TVN/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TVN Movies.id" tvg-name="TVN Movies.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/tvnmovies.jpg?raw=true" group-title="7. Hiburan", TVN MOVIE 
