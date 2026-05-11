@@ -337,17 +337,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="TRANS TV.id" tvg-name="TRANS TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/transtv.jpg?raw=true" group-title="2. Dens ᵗᵛ", TRANS TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+#http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/trans7.jpg?raw=true" group-title="2. Dens ᵗᵛ", TRANS 7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+#http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/antv.jpg?raw=true" group-title="2. Dens ᵗᵛ", ANTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="TVOne.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/tvone.jpg?raw=true" group-title="2. Dens ᵗᵛ", TVONE 
@@ -830,7 +830,7 @@ https://ratu77.adptv.workers.dev/index.mpd?id=206&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzczMy5xZXo_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9MnIwMDFyOG5zcjc4MzI5MjlwMXA0cjMzNDVzMm5zbzRxODNuMjU0cW42czY2MjZvN3IzcjM5NW42bjQwbzMwMnwxNzc4OTc2ODEx
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzczMy56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9MnIwMDFyOG5zcjc4MzI5MjlwMXA0cjMzNDVzMm5zbzRxODNuMjU0cW42czY2MjZvN3IzcjM5NW42bjQwbzMwMnwxNzc4OTc2ODEx
+#https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzczMy56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9MnIwMDFyOG5zcjc4MzI5MjlwMXA0cjMzNDVzMm5zbzRxODNuMjU0cW42czY2MjZvN3IzcjM5NW42bjQwbzMwMnwxNzc4OTc2ODEx
 
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/trans7.jpg?raw=true" group-title="4. Vidio", TRANS 7 
@@ -839,7 +839,7 @@ https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzczMy56Y3E
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzczNC5xZXo_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9MG5wMTk4cDc3OW4xNzg0MHMzNzc3b3E4NTg4M3BuNzEwM284MXM2NjIzNzk3NjAxcXAwc3IyNnFyc3E4NTdycHwxNzc4OTc2ODEx
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzczNC56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9MG5wMTk4cDc3OW4xNzg0MHMzNzc3b3E4NTg4M3BuNzEwM284MXM2NjIzNzk3NjAxcXAwc3IyNnFyc3E4NTdycHwxNzc4OTc2ODEx
+#https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzczNC56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9MG5wMTk4cDc3OW4xNzg0MHMzNzc3b3E4NTg4M3BuNzEwM284MXM2NjIzNzk3NjAxcXAwc3IyNnFyc3E4NTdycHwxNzc4OTc2ODEx
 
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="4. Vidio", RCTI 
@@ -848,7 +848,7 @@ https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzczNC56Y3E
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY2NS5xZXo_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9ODEwbjFuOHA3b3JvNW4yMTBxOTk3Mm9xbzZycjZubjNucnEzMG41Mm9yNjIzMG4wNXNuN3M1czJzb3E0MTNwNHwxNzc4OTc2ODEx
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY2NS56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9ODEwbjFuOHA3b3JvNW4yMTBxOTk3Mm9xbzZycjZubjNucnEzMG41Mm9yNjIzMG4wNXNuN3M1czJzb3E0MTNwNHwxNzc4OTc2ODEx
+#https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY2NS56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9ODEwbjFuOHA3b3JvNW4yMTBxOTk3Mm9xbzZycjZubjNucnEzMG41Mm9yNjIzMG4wNXNuN3M1czJzb3E0MTNwNHwxNzc4OTc2ODEx
 
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true" group-title="4. Vidio", MNCTV 
@@ -857,7 +857,7 @@ https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzY2NS56Y3E
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3MC5xZXo_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9Mm8zcjkyMW5uODkwNHNwOTA1bzMyODNwbzI3M3E0NDQyNDgxMTJxbjMybzI2MDlyOTYzcDRwbzk5cTI0MzNuOHwxNzc4OTc2ODEx
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3MC56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9Mm8zcjkyMW5uODkwNHNwOTA1bzMyODNwbzI3M3E0NDQyNDgxMTJxbjMybzI2MDlyOTYzcDRwbzk5cTI0MzNuOHwxNzc4OTc2ODEx
+#https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3MC56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9Mm8zcjkyMW5uODkwNHNwOTA1bzMyODNwbzI3M3E0NDQyNDgxMTJxbjMybzI2MDlyOTYzcDRwbzk5cTI0MzNuOHwxNzc4OTc2ODEx
 
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/gtv.jpg?raw=true" group-title="4. Vidio", GTV 
@@ -866,7 +866,7 @@ https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzg3MC56Y3E
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3OC5xZXo_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9bjYxNDU5MHMwMTY4cjM4bnIwNG42N3MwbnJzcjRvMTI0N3MzMTlwcnEzNjJvMzg0MjIyMXA2NG5zMzlwM3AxcHwxNzc4OTc2ODEx
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3OC56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9bjYxNDU5MHMwMTY4cjM4bnIwNG42N3MwbnJzcjRvMTI0N3MzMTlwcnEzNjJvMzg0MjIyMXA2NG5zMzlwM3AxcHwxNzc4OTc2ODEx
+#https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3OC56Y3E_cXJpX3hueHZfMDkmZz0xNzc4MzgyODExJnU9bjYxNDU5MHMwMTY4cjM4bnIwNG42N3MwbnJzcjRvMTI0N3MzMTlwcnEzNjJvMzg0MjIyMXA2NG5zMzlwM3AxcHwxNzc4OTc2ODEx
 
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/inews.jpg?raw=true" group-title="4. Vidio", INEWS 
@@ -875,7 +875,7 @@ https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzc3OC56Y3E
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MDkucWV6P3FyaV94bnh2XzA5Jmc9MTc3ODM4MjgxMSZ1PTUzcm5wczUxODZxN240M3I2cm9vNjc0cDZzOTM2cDQxb3E0cm8zOG9xcjZuMnMwNDFvcjMzcXBxc3MyNjByOHN8MTc3ODk3NjgxMQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MDkuemNxP3FyaV94bnh2XzA5Jmc9MTc3ODM4MjgxMSZ1PTUzcm5wczUxODZxN240M3I2cm9vNjc0cDZzOTM2cDQxb3E0cm8zOG9xcjZuMnMwNDFvcjMzcXBxc3MyNjByOHN8MTc3ODk3NjgxMQ
+#https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzU0MDkuemNxP3FyaV94bnh2XzA5Jmc9MTc3ODM4MjgxMSZ1PTUzcm5wczUxODZxN240M3I2cm9vNjc0cDZzOTM2cDQxb3E0cm8zOG9xcjZuMnMwNDFvcjMzcXBxc3MyNjByOHN8MTc3ODk3NjgxMQ
 
 
 #EXTINF:-1 tvg-id="DAAI TV.id" tvg-name="DAAI TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/daaitv.jpg?raw=true" group-title="4. Vidio", DAAI TV 
@@ -1012,7 +1012,7 @@ https://ratu77.adptv.workers.dev/index.mpd?id=6441&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQucWV6P3FyaV94bnh2XzA5Jmc9MTc3ODM4MjgxMSZ1PXJwNDQ4N3M4NTg0Njg2b3BucHM0OHNwbzVxNzQxbzZyc25wMXBzNHJzbjg2NDVyMjYzMDY0MTgxcjBwcXNxcjF8MTc3ODk3NjgxMQ
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQuemNxP3FyaV94bnh2XzA5Jmc9MTc3ODM4MjgxMSZ1PXJwNDQ4N3M4NTg0Njg2b3BucHM0OHNwbzVxNzQxbzZyc25wMXBzNHJzbjg2NDVyMjYzMDY0MTgxcjBwcXNxcjF8MTc3ODk3NjgxMQ
+#https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9HLzk3MTQuemNxP3FyaV94bnh2XzA5Jmc9MTc3ODM4MjgxMSZ1PXJwNDQ4N3M4NTg0Njg2b3BucHM0OHNwbzVxNzQxbzZyc25wMXBzNHJzbjg2NDVyMjYzMDY0MTgxcjBwcXNxcjF8MTc3ODk3NjgxMQ
 
 
 #EXTINF:-1 tvg-id="MUSICA.id" tvg-name="MUSICA.id"  tvg-logo="https://drive.google.com/uc?export=download&id=1uMC84ucxZdEaFE--vGua5JTC1tGCdmmh" group-title="4. Vidio", MUSICA
