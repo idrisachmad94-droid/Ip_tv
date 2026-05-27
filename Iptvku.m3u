@@ -1163,7 +1163,8 @@ http://103.148.44.38:8000/play/a09e/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
+http://ogietv.biz.id:80/aqin/aqin168/1405.ts
 
 
 #EXTINF:-1 tvg-id="Rock Entertainment.id" tvg-name="Rock Entertainment.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/rockent.jpg?raw=true" group-title="5. Film", ROCK ENTERTAINMENT 
@@ -1331,8 +1332,9 @@ http://103.148.44.38:8000/play/a05s/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94916fa7ad4c44ad83b1175956adaa05:df19614d4f9f9fe836590d8d98ab2699
-##https://cdn08jtedge.indihometv.com/dass/134/sone/manifest.mpd
-http://103.148.44.38:8000/play/a01v/index.m3u8
+#https://cdn08jtedge.indihometv.com/dass/134/sone/manifest.mpd
+#http://103.148.44.38:8000/play/a01v/index.m3u8
+http://ogietv.biz.id:80/aqin/aqin168/1411.ts
 
 
 #EXTINF:-1 tvg-id="TVN.id" tvg-name="TVN.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/tvn.jpg?raw=true" group-title="6. Hiburan", TVN 
@@ -1340,8 +1342,9 @@ http://103.148.44.38:8000/play/a01v/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 #http://103.148.44.38:8000/play/a01k/index.m3u8
+http://ogietv.biz.id:80/aqin/aqin168/1400.ts
 
 
 #EXTINF:-1 tvg-id="TVN.id" tvg-name="TVN.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/tvn.jpg?raw=true" group-title="6. Hiburan", TVN 
@@ -1582,6 +1585,7 @@ https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=74eaa28cbcf24bafb4c8089abd018a63:1443c25b38e58478ee28628bcd9eb29b
 ##https://cdn08jtedge.indihometv.com/dass/130/animax/manifest.mpd
 http://103.148.44.38:8000/play/a04z/index.m3u8
+http://ogietv.biz.id:80/aqin/aqin168/1464.ts
 
 
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/aniplus.jpg" group-title="7. Anak-anak",ANIPLUS 
