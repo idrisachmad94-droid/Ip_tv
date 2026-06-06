@@ -2129,6 +2129,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&user
 #KODIPROP:inputstream.adaptive.license_key=https://dentestream.my.id/datacenter/manifest.drm?id=21610&type=drm
 https://dentestream.my.id/datacenter/manifest.mpd?id=21610&type=dash
 
+
 #EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=download&id=19dmavQiC_ip72j32feJYHzT3gbKqHmoj" group-title="8. Olahraga", VOLI PRO LIGA (SAAT LIVE )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2136,8 +2137,10 @@ https://dentestream.my.id/datacenter/manifest.mpd?id=21610&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://dentestream.my.id/datacenter/manifest.drm?id=20240&type=drm
 ##https://dentestream.my.id/datacenter/manifest.mpd?id=20240&type=dash
-#KODIPROP:inputstream.adaptive.license_key=https://dentestream.my.id/datacenter/manifest.drm?id=21593&type=drm
-https://dentestream.my.id/datacenter/manifest.mpd?id=21593&type=dash
+##KODIPROP:inputstream.adaptive.license_key=https://dentestream.my.id/datacenter/manifest.drm?id=21593&type=drm
+##https://dentestream.my.id/datacenter/manifest.mpd?id=21593&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://dentestream.my.id/datacenter/manifest.drm?id=21254&type=drm
+https://dentestream.my.id/datacenter/manifest.mpd?id=21254&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QYkBZfzSj-5Jmh_lZ2AZPwfXyRo=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21289/citra-drama-plus-a6965e.jpg" group-title="8. Olahraga", CITRA PLUS
