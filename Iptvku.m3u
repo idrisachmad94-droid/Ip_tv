@@ -37,22 +37,26 @@ http://202.169.224.202:8800/udp/239.1.1.1:1234
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="1. Nasional ᴴᴰ", RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/6.ts
+#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/6.ts
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73606.ts
 
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MNCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/7.ts
+#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/7.ts
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73616.ts
 
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/gtv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", GTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/8.ts
+#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/8.ts
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73619.ts
 
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/inews.jpg?raw=true" group-title="1. Nasional ᴴᴰ", INEWS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/11.ts
+#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/11.ts
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73605.ts
 
 
 #EXTINF:-1 tvg-id="DAAI TV.id" tvg-name="DAAI TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/daaitv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", DAAI TV 
@@ -213,7 +217,7 @@ http://202.169.224.202:8800/udp/239.1.3.1:1234
 
 #EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/antaratv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", ANTARA TV  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/24.ts
+#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/24.ts
 
 
 #EXTINF:-1 tvg-id="Jakarta Globe.id" tvg-name="Jakarta Globe.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/news/jakartaglobe.jpg" group-title="1. Nasional ᴴᴰ", JAKARTA GLOBE 
