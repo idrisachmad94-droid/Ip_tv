@@ -20,12 +20,12 @@ http://103.148.44.38:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/moji.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MOJI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/4.ts
+#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/4.ts
 
 
 #EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/mentaritv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MENTARI TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/5.ts
+#https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/5.ts
 
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mdtv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MDTV 
