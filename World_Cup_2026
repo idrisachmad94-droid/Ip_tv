@@ -1,34 +1,27 @@
-#EXTM3U
-
-
-
-
-
-
 
 # ===== SOURCE 4 =====
-#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | πΆπ¦ Qatar vs π¨π­ Swiss | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | 🇶🇦 Qatar vs 🇨🇭 Swiss | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | πΆπ¦ Qatar vs π¨π­ Swiss | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | 🇶🇦 Qatar vs 🇨🇭 Swiss | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | πΆπ¦ Qatar vs π¨π­ Swiss | CCTV 5 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | 🇶🇦 Qatar vs 🇨🇭 Swiss | CCTV 5 | Gvision TV 📺
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | πΆπ¦ Qatar vs π¨π­ Swiss | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | 🇶🇦 Qatar vs 🇨🇭 Swiss | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | πΆπ¦ Qatar vs π¨π­ Swiss | RTB GO LIVE | Gvision TV πΊ
+#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | 🇶🇦 Qatar vs 🇨🇭 Swiss | RTB GO LIVE | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
-#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | ??π¦ Qatar vs π¨π­ Swiss | CT SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="05" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ijfi9n1775058321.jpg",02:00 WIB - 14 Juni | ??🇦 Qatar vs 🇨🇭 Swiss | CT SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -36,33 +29,33 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | π§π· Brasil vs π²π¦ Maroko | Las Estrellas | Gvision TV πΊ
+#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | 🇧🇷 Brasil vs 🇲🇦 Maroko | Las Estrellas | Gvision TV 📺
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | π§π· Brasil vs π²π¦ Maroko | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | 🇧🇷 Brasil vs 🇲🇦 Maroko | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | π§π· Brasil vs π²π¦ Maroko | CCTV 5 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | 🇧🇷 Brasil vs 🇲🇦 Maroko | CCTV 5 | Gvision TV 📺
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | π§π· Brasil vs π²π¦ Maroko | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | 🇧🇷 Brasil vs 🇲🇦 Maroko | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | π§π· Brasil vs π²π¦ Maroko | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | 🇧🇷 Brasil vs 🇲🇦 Maroko | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | π§π· Brasil vs π²π¦ Maroko | TUDN | Gvision TV πΊ
+#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | 🇧🇷 Brasil vs 🇲🇦 Maroko | TUDN | Gvision TV 📺
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
-#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | π§π· Brasil vs π²π¦ Maroko | CT SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="06" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mau34u1775058318.jpg",05:00 WIB - 14 Juni | 🇧🇷 Brasil vs 🇲🇦 Maroko | CT SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -70,516 +63,516 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-#EXTINF:-1 tvg-id="07" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg",08:00 WIB - 14 Juni | π­πΉ Haiti vs π΄σ §σ ’σ ³σ £σ ΄σ Ώ Skotlandia | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="07" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg",08:00 WIB - 14 Juni | 🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Skotlandia | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="07" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg",08:00 WIB - 14 Juni | π­πΉ Haiti vs π΄σ §σ ’σ ³σ £σ ΄σ Ώ Skotlandia | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="07" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg",08:00 WIB - 14 Juni | 🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Skotlandia | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="07" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg",08:00 WIB - 14 Juni | π­πΉ Haiti vs π΄σ §σ ’σ ³σ £σ ΄σ Ώ Skotlandia | CCTV 5 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="07" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg",08:00 WIB - 14 Juni | 🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Skotlandia | CCTV 5 | Gvision TV 📺
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="07" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg",08:00 WIB - 14 Juni | π­πΉ Haiti vs π΄σ §σ ’σ ³σ £σ ΄σ Ώ Skotlandia | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="07" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg",08:00 WIB - 14 Juni | 🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Skotlandia | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="08" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg",11:00 WIB - 14 Juni | π¦πΊ Australia vs πΉπ· Turki | CCTV 5 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="08" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg",11:00 WIB - 14 Juni | 🇦🇺 Australia vs 🇹🇷 Turki | CCTV 5 | Gvision TV 📺
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="08" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg",11:00 WIB - 14 Juni | π¦πΊ Australia vs πΉπ· Turki | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="08" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg",11:00 WIB - 14 Juni | 🇦🇺 Australia vs 🇹🇷 Turki | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="08" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg",11:00 WIB - 14 Juni | π¦πΊ Australia vs πΉπ· Turki | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="08" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg",11:00 WIB - 14 Juni | 🇦🇺 Australia vs 🇹🇷 Turki | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="08" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg",11:00 WIB - 14 Juni | π¦πΊ Australia vs πΉπ· Turki | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="08" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg",11:00 WIB - 14 Juni | 🇦🇺 Australia vs 🇹🇷 Turki | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="09" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg",00:00 WIB - 15 Juni | π©πͺ Jerman vs π¨πΌ CuraΓ§ao | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="09" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg",00:00 WIB - 15 Juni | 🇩🇪 Jerman vs 🇨🇼 Curaçao | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="09" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg",00:00 WIB - 15 Juni | π©πͺ Jerman vs π¨πΌ CuraΓ§ao | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="09" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg",00:00 WIB - 15 Juni | 🇩🇪 Jerman vs 🇨🇼 Curaçao | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="09" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg",00:00 WIB - 15 Juni | π©πͺ Jerman vs π¨πΌ CuraΓ§ao | CCTV 5 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="09" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg",00:00 WIB - 15 Juni | 🇩🇪 Jerman vs 🇨🇼 Curaçao | CCTV 5 | Gvision TV 📺
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="09" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg",00:00 WIB - 15 Juni | π©πͺ Jerman vs π¨πΌ CuraΓ§ao | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="09" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c58bxh1775058322.jpg",00:00 WIB - 15 Juni | 🇩🇪 Jerman vs 🇨🇼 Curaçao | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="10" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg",03:00 WIB - 15 Juni | π³π± Belanda vs π―π΅ Jepang | TUDN | Gvision TV πΊ
+#EXTINF:-1 tvg-id="10" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg",03:00 WIB - 15 Juni | 🇳🇱 Belanda vs 🇯🇵 Jepang | TUDN | Gvision TV 📺
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
-#EXTINF:-1 tvg-id="10" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg",03:00 WIB - 15 Juni | π³π± Belanda vs π―π΅ Jepang | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="10" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg",03:00 WIB - 15 Juni | 🇳🇱 Belanda vs 🇯🇵 Jepang | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="10" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg",03:00 WIB - 15 Juni | π³π± Belanda vs π―π΅ Jepang | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="10" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg",03:00 WIB - 15 Juni | 🇳🇱 Belanda vs 🇯🇵 Jepang | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="10" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg",03:00 WIB - 15 Juni | π³π± Belanda vs π―π΅ Jepang | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="10" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg",03:00 WIB - 15 Juni | 🇳🇱 Belanda vs 🇯🇵 Jepang | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="10" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg",03:00 WIB - 15 Juni | π³π± Belanda vs π―π΅ Jepang | Las Estrellas | Gvision TV πΊ
+#EXTINF:-1 tvg-id="10" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8rj5lv1775058324.jpg",03:00 WIB - 15 Juni | 🇳🇱 Belanda vs 🇯🇵 Jepang | Las Estrellas | Gvision TV 📺
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="11" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg",06:00 WIB - 15 Juni | π¨π� Pantai Gading vs πͺπ¨ Ekuador | Sportv | Gvision TV πΊ
+#EXTINF:-1 tvg-id="11" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg",06:00 WIB - 15 Juni | 🇨🇮 Pantai Gading vs 🇪🇨 Ekuador | Sportv | Gvision TV 📺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-β­
-#EXTINF:-1 tvg-id="11" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg",06:00 WIB - 15 Juni | π¨π� Pantai Gading vs πͺπ¨ Ekuador | TSN 1 | Gvision TV πΊ
+⭐
+#EXTINF:-1 tvg-id="11" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg",06:00 WIB - 15 Juni | 🇨🇮 Pantai Gading vs 🇪🇨 Ekuador | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="11" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg",06:00 WIB - 15 Juni | π¨π� Pantai Gading vs πͺπ¨ Ekuador | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="11" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg",06:00 WIB - 15 Juni | 🇨🇮 Pantai Gading vs 🇪🇨 Ekuador | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="11" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg",06:00 WIB - 15 Juni | π¨π� Pantai Gading vs πͺπ¨ Ekuador | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="11" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/61g7b91775058323.jpg",06:00 WIB - 15 Juni | 🇨🇮 Pantai Gading vs 🇪🇨 Ekuador | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="12" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hja0ne1775058374.jpg",09:00 WIB - 15 Juni | πΈπͺ Swedia vs πΉπ³ Tunisia | Sportv | Gvision TV πΊ
+#EXTINF:-1 tvg-id="12" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hja0ne1775058374.jpg",09:00 WIB - 15 Juni | 🇸🇪 Swedia vs 🇹🇳 Tunisia | Sportv | Gvision TV 📺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-β­
-#EXTINF:-1 tvg-id="12" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hja0ne1775058374.jpg",09:00 WIB - 15 Juni | ??πͺ Swedia vs πΉπ³ Tunisia | TSN 1 | Gvision TV πΊ
+⭐
+#EXTINF:-1 tvg-id="12" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hja0ne1775058374.jpg",09:00 WIB - 15 Juni | ??🇪 Swedia vs 🇹🇳 Tunisia | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="12" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hja0ne1775058374.jpg",09:00 WIB - 15 Juni | πΈπͺ Swedia vs πΉπ³ Tunisia | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="12" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hja0ne1775058374.jpg",09:00 WIB - 15 Juni | 🇸🇪 Swedia vs 🇹🇳 Tunisia | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="12" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hja0ne1775058374.jpg",09:00 WIB - 15 Juni | πΈπͺ Swedia vs πΉπ³ Tunisia | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="12" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hja0ne1775058374.jpg",09:00 WIB - 15 Juni | 🇸🇪 Swedia vs 🇹🇳 Tunisia | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="13" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xi9bqn1775058328.jpg",23:00 WIB - 15 Juni | πͺπΈ Spanyol vs π¨π» Tanjung Verde | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="13" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xi9bqn1775058328.jpg",23:00 WIB - 15 Juni | 🇪🇸 Spanyol vs 🇨🇻 Tanjung Verde | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="13" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xi9bqn1775058328.jpg",23:00 WIB - 15 Juni | πͺπΈ Spanyol vs π¨π» Tanjung Verde | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="13" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xi9bqn1775058328.jpg",23:00 WIB - 15 Juni | 🇪🇸 Spanyol vs 🇨🇻 Tanjung Verde | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="13" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xi9bqn1775058328.jpg",23:00 WIB - 15 Juni | πͺπΈ Spanyol vs π¨π» Tanjung Verde | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="13" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xi9bqn1775058328.jpg",23:00 WIB - 15 Juni | 🇪🇸 Spanyol vs 🇨🇻 Tanjung Verde | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="14" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg",02:00 WIB - 16 Juni | π§πͺ Belgia vs πͺπ¬ Mesir | Sportv | Gvision TV πΊ
+#EXTINF:-1 tvg-id="14" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg",02:00 WIB - 16 Juni | 🇧🇪 Belgia vs 🇪🇬 Mesir | Sportv | Gvision TV 📺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-β­
-#EXTINF:-1 tvg-id="14" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg",02:00 WIB - 16 Juni | π§πͺ Belgia vs πͺπ¬ Mesir | TSN 1 | Gvision TV πΊ
+⭐
+#EXTINF:-1 tvg-id="14" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg",02:00 WIB - 16 Juni | 🇧🇪 Belgia vs 🇪🇬 Mesir | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="14" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg",02:00 WIB - 16 Juni | π§πͺ Belgia vs πͺπ¬ Mesir | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="14" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg",02:00 WIB - 16 Juni | 🇧🇪 Belgia vs 🇪🇬 Mesir | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="14" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg",02:00 WIB - 16 Juni | π§πͺ Belgia vs πͺπ¬ Mesir | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="14" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/uejz5h1775058325.jpg",02:00 WIB - 16 Juni | 🇧🇪 Belgia vs 🇪🇬 Mesir | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | πΈπ¦ Arab Saudi vs πΊπΎ Uruguay | Sportv | Gvision TV πΊ
+#EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | 🇸🇦 Arab Saudi vs 🇺🇾 Uruguay | Sportv | Gvision TV 📺
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-β­
-#EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | πΈπ¦ Arab Saudi vs πΊπΎ Uruguay | TSN 1 | Gvision TV πΊ
+⭐
+#EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | 🇸🇦 Arab Saudi vs 🇺🇾 Uruguay | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | πΈπ¦ Arab Saudi vs πΊπΎ Uruguay | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | 🇸🇦 Arab Saudi vs 🇺🇾 Uruguay | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | πΈπ¦ Arab Saudi vs πΊπΎ Uruguay | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="15" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhbzh41775058327.jpg",05:00 WIB - 16 Juni | 🇸🇦 Arab Saudi vs 🇺🇾 Uruguay | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="16" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qhf26y1775058326.jpg",08:00 WIB - 16 Juni | π�π· Iran vs π³πΏ Selandia Baru | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="16" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qhf26y1775058326.jpg",08:00 WIB - 16 Juni | 🇮🇷 Iran vs 🇳🇿 Selandia Baru | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="16" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qhf26y1775058326.jpg",08:00 WIB - 16 Juni | π�π· Iran vs π³πΏ Selandia Baru | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="16" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qhf26y1775058326.jpg",08:00 WIB - 16 Juni | 🇮🇷 Iran vs 🇳🇿 Selandia Baru | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="16" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qhf26y1775058326.jpg",08:00 WIB - 16 Juni | π�π· Iran vs π³πΏ Selandia Baru | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="16" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qhf26y1775058326.jpg",08:00 WIB - 16 Juni | 🇮🇷 Iran vs 🇳🇿 Selandia Baru | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="17" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/73gvui1775058331.jpg",02:00 WIB - 17 Juni | π«π· Prancis vs πΈπ³ Senegal | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="17" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/73gvui1775058331.jpg",02:00 WIB - 17 Juni | 🇫🇷 Prancis vs 🇸🇳 Senegal | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="17" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/73gvui1775058331.jpg",02:00 WIB - 17 Juni | π«π· Prancis vs πΈπ³ Senegal | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="17" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/73gvui1775058331.jpg",02:00 WIB - 17 Juni | 🇫🇷 Prancis vs 🇸🇳 Senegal | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="17" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/73gvui1775058331.jpg",02:00 WIB - 17 Juni | π«π· Prancis vs πΈπ³ Senegal | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="17" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/73gvui1775058331.jpg",02:00 WIB - 17 Juni | 🇫🇷 Prancis vs 🇸🇳 Senegal | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="18" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xbh5yw1775058375.jpg",05:00 WIB - 17 Juni | π�πΆ Irak vs π³π΄ Norwegia | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="18" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xbh5yw1775058375.jpg",05:00 WIB - 17 Juni | 🇮🇶 Irak vs 🇳🇴 Norwegia | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="18" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xbh5yw1775058375.jpg",05:00 WIB - 17 Juni | π�πΆ Irak vs π³π΄ Norwegia | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="18" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xbh5yw1775058375.jpg",05:00 WIB - 17 Juni | 🇮🇶 Irak vs 🇳🇴 Norwegia | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="18" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xbh5yw1775058375.jpg",05:00 WIB - 17 Juni | π�πΆ Irak vs π³π΄ Norwegia | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="18" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xbh5yw1775058375.jpg",05:00 WIB - 17 Juni | 🇮🇶 Irak vs 🇳🇴 Norwegia | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | π¦π· Argentina vs π©πΏ Aljazair | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | 🇦🇷 Argentina vs 🇩🇿 Aljazair | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | π¦π· Argentina vs π©πΏ Aljazair | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | 🇦🇷 Argentina vs 🇩🇿 Aljazair | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | π¦π· Argentina vs π©πΏ Aljazair | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | 🇦🇷 Argentina vs 🇩🇿 Aljazair | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | π¦π· Argentina vs π©πΏ Aljazair | TUDN | Gvision TV πΊ
+#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | 🇦🇷 Argentina vs 🇩🇿 Aljazair | TUDN | Gvision TV 📺
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
-#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | π¦π· Argentina vs π©πΏ Aljazair | Las Estrellas | Gvision TV πΊ
+#EXTINF:-1 tvg-id="19" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w4gd291775058329.jpg",08:00 WIB - 17 Juni | 🇦🇷 Argentina vs 🇩🇿 Aljazair | Las Estrellas | Gvision TV 📺
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="20" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/sfkizc1775058330.jpg",11:00 WIB - 17 Juni | π¦πΉ Austria vs π―π΄ Yordania | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="20" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/sfkizc1775058330.jpg",11:00 WIB - 17 Juni | 🇦🇹 Austria vs 🇯🇴 Yordania | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="20" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/sfkizc1775058330.jpg",11:00 WIB - 17 Juni | π¦πΉ Austria vs π―π΄ Yordania | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="20" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/sfkizc1775058330.jpg",11:00 WIB - 17 Juni | 🇦🇹 Austria vs 🇯🇴 Yordania | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="20" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/sfkizc1775058330.jpg",11:00 WIB - 17 Juni | π¦πΉ Austria vs π―π΄ Yordania | TVP SPORT | Gvision TV πΊ
+#EXTINF:-1 tvg-id="20" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/sfkizc1775058330.jpg",11:00 WIB - 17 Juni | 🇦🇹 Austria vs 🇯🇴 Yordania | TVP SPORT | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-id="21" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cjjkg21775058376.jpg",00:00 WIB - 18 Juni | π΅πΉ Portugal vs π¨π© RD Kongo | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="21" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cjjkg21775058376.jpg",00:00 WIB - 18 Juni | 🇵🇹 Portugal vs 🇨🇩 RD Kongo | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="21" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cjjkg21775058376.jpg",00:00 WIB - 18 Juni | π΅πΉ Portugal vs π¨π© RD Kongo | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="21" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cjjkg21775058376.jpg",00:00 WIB - 18 Juni | 🇵🇹 Portugal vs 🇨🇩 RD Kongo | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="22" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cfi1ep1775058332.jpg",03:00 WIB - 18 Juni | π΄σ §σ ’σ ₯σ �σ §σ Ώ Inggris vs π­π· Kroasia | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="22" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cfi1ep1775058332.jpg",03:00 WIB - 18 Juni | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inggris vs 🇭🇷 Kroasia | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="22" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cfi1ep1775058332.jpg",03:00 WIB - 18 Juni | π΄σ §σ ’σ ₯σ �σ §σ Ώ Inggris vs π­π· Kroasia | TUDN | Gvision TV πΊ
+#EXTINF:-1 tvg-id="22" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cfi1ep1775058332.jpg",03:00 WIB - 18 Juni | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inggris vs 🇭🇷 Kroasia | TUDN | Gvision TV 📺
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
-#EXTINF:-1 tvg-id="22" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cfi1ep1775058332.jpg",03:00 WIB - 18 Juni | π΄σ §σ ’σ ₯σ �σ §σ Ώ Inggris vs π­π· Kroasia | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="22" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cfi1ep1775058332.jpg",03:00 WIB - 18 Juni | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inggris vs 🇭🇷 Kroasia | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="22" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cfi1ep1775058332.jpg",03:00 WIB - 18 Juni | π΄σ §σ ’σ ₯σ �σ §σ Ώ Inggris vs π­π· Kroasia | Las Estrellas | Gvision TV πΊ
+#EXTINF:-1 tvg-id="22" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cfi1ep1775058332.jpg",03:00 WIB - 18 Juni | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inggris vs 🇭🇷 Kroasia | Las Estrellas | Gvision TV 📺
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="23" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qq0ayn1775058333.jpg",06:00 WIB - 18 Juni | π¬π­ Ghana vs π΅π¦ Panama | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="23" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qq0ayn1775058333.jpg",06:00 WIB - 18 Juni | 🇬🇭 Ghana vs 🇵🇦 Panama | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="24" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/s0getc1775058334.jpg",09:00 WIB - 18 Juni | πΊπΏ Uzbekistan vs π¨π΄ Kolombia | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="24" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/s0getc1775058334.jpg",09:00 WIB - 18 Juni | 🇺🇿 Uzbekistan vs 🇨🇴 Kolombia | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="24" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/s0getc1775058334.jpg",09:00 WIB - 18 Juni | πΊπΏ Uzbekistan vs π¨π΄ Kolombia | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="24" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/s0getc1775058334.jpg",09:00 WIB - 18 Juni | 🇺🇿 Uzbekistan vs 🇨🇴 Kolombia | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="25" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/x3ynsy1775058377.jpg",23:00 WIB - 18 Juni | π¨πΏ Ceko vs πΏπ¦ Afrika Selatan | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="25" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/x3ynsy1775058377.jpg",23:00 WIB - 18 Juni | 🇨🇿 Ceko vs 🇿🇦 Afrika Selatan | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="25" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/x3ynsy1775058377.jpg",23:00 WIB - 18 Juni | π¨πΏ Ceko vs πΏπ¦ Afrika Selatan | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="25" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/x3ynsy1775058377.jpg",23:00 WIB - 18 Juni | 🇨🇿 Ceko vs 🇿🇦 Afrika Selatan | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="26" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/gqg3xe1775058378.jpg",02:00 WIB - 19 Juni | π¨π­ Swiss vs π§π¦ Bosnia-Herzegovina | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="26" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/gqg3xe1775058378.jpg",02:00 WIB - 19 Juni | 🇨🇭 Swiss vs 🇧🇦 Bosnia-Herzegovina | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="26" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/gqg3xe1775058378.jpg",02:00 WIB - 19 Juni | π¨π­ Swiss vs π§π¦ Bosnia-Herzegovina | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="26" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/gqg3xe1775058378.jpg",02:00 WIB - 19 Juni | 🇨🇭 Swiss vs 🇧🇦 Bosnia-Herzegovina | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="27" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/vcjp4j1775058335.jpg",05:00 WIB - 19 Juni | π¨π¦ Kanada vs πΆπ¦ Qatar | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="27" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/vcjp4j1775058335.jpg",05:00 WIB - 19 Juni | 🇨🇦 Kanada vs 🇶🇦 Qatar | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="28" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/r0l9hp1775058336.jpg",08:00 WIB - 19 Juni | π²π½ Meksiko vs π°π· Korea Selatan | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="28" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/r0l9hp1775058336.jpg",08:00 WIB - 19 Juni | 🇲🇽 Meksiko vs 🇰🇷 Korea Selatan | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="28" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/r0l9hp1775058336.jpg",08:00 WIB - 19 Juni | π²π½ Meksiko vs π°π· Korea Selatan | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="28" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/r0l9hp1775058336.jpg",08:00 WIB - 19 Juni | 🇲🇽 Meksiko vs 🇰🇷 Korea Selatan | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="28" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/r0l9hp1775058336.jpg",08:00 WIB - 19 Juni | π²π½ Meksiko vs π°π· Korea Selatan | TUDN | Gvision TV πΊ
+#EXTINF:-1 tvg-id="28" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/r0l9hp1775058336.jpg",08:00 WIB - 19 Juni | 🇲🇽 Meksiko vs 🇰🇷 Korea Selatan | TUDN | Gvision TV 📺
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
-#EXTINF:-1 tvg-id="29" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jsz07z1775058339.jpg",02:00 WIB - 20 Juni | πΊπΈ Amerika Serikat vs π¦πΊ Australia | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="29" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jsz07z1775058339.jpg",02:00 WIB - 20 Juni | 🇺🇸 Amerika Serikat vs 🇦🇺 Australia | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="29" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jsz07z1775058339.jpg",02:00 WIB - 20 Juni | πΊπΈ Amerika Serikat vs π¦πΊ Australia | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="29" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jsz07z1775058339.jpg",02:00 WIB - 20 Juni | 🇺🇸 Amerika Serikat vs 🇦🇺 Australia | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="30" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/h9f6ho1775058338.jpg",05:00 WIB - 20 Juni | π΄σ §σ ’σ ³σ £σ ΄σ Ώ Skotlandia vs π²π¦ Maroko | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="30" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/h9f6ho1775058338.jpg",05:00 WIB - 20 Juni | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Skotlandia vs 🇲🇦 Maroko | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="30" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/h9f6ho1775058338.jpg",05:00 WIB - 20 Juni | π΄σ §σ ’σ ³σ £σ ΄σ Ώ Skotlandia vs π²π¦ Maroko | TSN 4 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="30" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/h9f6ho1775058338.jpg",05:00 WIB - 20 Juni | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Skotlandia vs 🇲🇦 Maroko | TSN 4 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-id="31" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cbpzq61775058337.jpg",07:30 WIB - 20 Juni | π§π· Brasil vs π­πΉ Haiti | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="31" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/cbpzq61775058337.jpg",07:30 WIB - 20 Juni | 🇧🇷 Brasil vs 🇭🇹 Haiti | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="32" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/wy0mgc1775058379.jpg",10:00 WIB - 20 Juni | πΉπ· Turki vs π΅πΎ Paraguay | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="32" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/wy0mgc1775058379.jpg",10:00 WIB - 20 Juni | 🇹🇷 Turki vs 🇵🇾 Paraguay | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="32" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/wy0mgc1775058379.jpg",10:00 WIB - 20 Juni | πΉπ· Turki vs π΅πΎ Paraguay | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="32" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/wy0mgc1775058379.jpg",10:00 WIB - 20 Juni | 🇹🇷 Turki vs 🇵🇾 Paraguay | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="32" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/wy0mgc1775058379.jpg",10:00 WIB - 20 Juni | πΉπ· Turki vs π΅πΎ Paraguay | TSN 5 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="32" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/wy0mgc1775058379.jpg",10:00 WIB - 20 Juni | 🇹🇷 Turki vs 🇵🇾 Paraguay | TSN 5 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
-#EXTINF:-1 tvg-id="33" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/x1073h1775058380.jpg",00:00 WIB - 21 Juni | π³π± Belanda vs πΈπͺ Swedia | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="33" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/x1073h1775058380.jpg",00:00 WIB - 21 Juni | 🇳🇱 Belanda vs 🇸🇪 Swedia | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="33" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/x1073h1775058380.jpg",00:00 WIB - 21 Juni | π³π± Belanda vs πΈπͺ Swedia | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="33" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/x1073h1775058380.jpg",00:00 WIB - 21 Juni | 🇳🇱 Belanda vs 🇸🇪 Swedia | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="34" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jzc7kq1775058341.jpg",03:00 WIB - 21 Juni | π©πͺ Jerman vs π¨π� Pantai Gading | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="34" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jzc7kq1775058341.jpg",03:00 WIB - 21 Juni | 🇩🇪 Jerman vs 🇨🇮 Pantai Gading | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="34" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jzc7kq1775058341.jpg",03:00 WIB - 21 Juni | π©πͺ Jerman vs π¨π� Pantai Gading | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="34" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/jzc7kq1775058341.jpg",03:00 WIB - 21 Juni | 🇩🇪 Jerman vs 🇨🇮 Pantai Gading | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="35" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2ccwlo1775058340.jpg",07:00 WIB - 21 Juni | πͺπ¨ Ekuador vs π¨πΌ CuraΓ§ao | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="35" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2ccwlo1775058340.jpg",07:00 WIB - 21 Juni | 🇪🇨 Ekuador vs 🇨🇼 Curaçao | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="35" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2ccwlo1775058340.jpg",07:00 WIB - 21 Juni | πͺπ¨ Ekuador vs π¨πΌ CuraΓ§ao | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="35" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2ccwlo1775058340.jpg",07:00 WIB - 21 Juni | 🇪🇨 Ekuador vs 🇨🇼 Curaçao | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="36" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/y5fihn1775058342.jpg",11:00 WIB - 21 Juni | πΉπ³ Tunisia vs π―π΅ Jepang | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="36" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/y5fihn1775058342.jpg",11:00 WIB - 21 Juni | 🇹🇳 Tunisia vs 🇯🇵 Jepang | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="36" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/y5fihn1775058342.jpg",11:00 WIB - 21 Juni | πΉπ³ Tunisia vs π―π΅ Jepang | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="36" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/y5fihn1775058342.jpg",11:00 WIB - 21 Juni | 🇹🇳 Tunisia vs 🇯🇵 Jepang | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="37" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kv7yiz1775058345.jpg",23:00 WIB - 21 Juni | πͺπΈ Spanyol vs πΈπ¦ Arab Saudi | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="37" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kv7yiz1775058345.jpg",23:00 WIB - 21 Juni | 🇪🇸 Spanyol vs 🇸🇦 Arab Saudi | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="37" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kv7yiz1775058345.jpg",23:00 WIB - 21 Juni | πͺπΈ Spanyol vs πΈπ¦ Arab Saudi | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="37" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kv7yiz1775058345.jpg",23:00 WIB - 21 Juni | 🇪🇸 Spanyol vs 🇸🇦 Arab Saudi | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="38" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c4jyvr1775058343.jpg",02:00 WIB - 22 Juni | π§πͺ Belgia vs π�π· Iran | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="38" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c4jyvr1775058343.jpg",02:00 WIB - 22 Juni | 🇧🇪 Belgia vs 🇮🇷 Iran | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="38" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c4jyvr1775058343.jpg",02:00 WIB - 22 Juni | π§πͺ Belgia vs π�π· Iran | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="38" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/c4jyvr1775058343.jpg",02:00 WIB - 22 Juni | 🇧🇪 Belgia vs 🇮🇷 Iran | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="39" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ga832m1775058346.jpg",04:00 WIB - 22 Juni | πΊπΎ Uruguay vs π¨π» Tanjung Verde | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="39" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ga832m1775058346.jpg",04:00 WIB - 22 Juni | 🇺🇾 Uruguay vs 🇨🇻 Tanjung Verde | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="39" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ga832m1775058346.jpg",04:00 WIB - 22 Juni | πΊπΎ Uruguay vs π¨π» Tanjung Verde | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="39" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ga832m1775058346.jpg",04:00 WIB - 22 Juni | 🇺🇾 Uruguay vs 🇨🇻 Tanjung Verde | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="40" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zxmks31775058344.jpg",08:00 WIB - 22 Juni | π³πΏ Selandia Baru vs πͺπ¬ Mesir | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="40" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zxmks31775058344.jpg",08:00 WIB - 22 Juni | 🇳🇿 Selandia Baru vs 🇪🇬 Mesir | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="40" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zxmks31775058344.jpg",08:00 WIB - 22 Juni | π³πΏ Selandia Baru vs πͺπ¬ Mesir | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="40" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zxmks31775058344.jpg",08:00 WIB - 22 Juni | 🇳🇿 Selandia Baru vs 🇪🇬 Mesir | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="41" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ho62ce1775058347.jpg",00:00 WIB - 23 Juni | π¦π· Argentina vs π¦πΉ Austria | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="41" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ho62ce1775058347.jpg",00:00 WIB - 23 Juni | 🇦🇷 Argentina vs 🇦🇹 Austria | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="41" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ho62ce1775058347.jpg",00:00 WIB - 23 Juni | π¦π· Argentina vs π¦πΉ Austria | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="41" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ho62ce1775058347.jpg",00:00 WIB - 23 Juni | 🇦🇷 Argentina vs 🇦🇹 Austria | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="42" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2t7p3w1775058381.jpg",04:00 WIB - 23 Juni | π«π· Prancis vs π�πΆ Irak | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="42" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2t7p3w1775058381.jpg",04:00 WIB - 23 Juni | 🇫🇷 Prancis vs 🇮🇶 Irak | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="42" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2t7p3w1775058381.jpg",04:00 WIB - 23 Juni | π«π· Prancis vs π�πΆ Irak | TSN 1 | Gvision TV πΊ
+#EXTINF:-1 tvg-id="42" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2t7p3w1775058381.jpg",04:00 WIB - 23 Juni | 🇫🇷 Prancis vs 🇮🇶 Irak | TSN 1 | Gvision TV 📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-id="43" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3azkme1775058349.jpg",07:00 WIB - 23 Juni | π³π΄ Norwegia vs πΈπ³ Senegal | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="43" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3azkme1775058349.jpg",07:00 WIB - 23 Juni | 🇳🇴 Norwegia vs 🇸🇳 Senegal | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="44" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qoftsk1775058348.jpg",10:00 WIB - 23 Juni | π―π΄ Yordania vs π©πΏ Aljazair | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="44" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qoftsk1775058348.jpg",10:00 WIB - 23 Juni | 🇯🇴 Yordania vs 🇩🇿 Aljazair | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="45" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kdr7qh1775058352.jpg",00:00 WIB - 24 Juni | π΅πΉ Portugal vs πΊπΏ Uzbekistan | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="46" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/e5dedu1775058350.jpg",03:00 WIB - 24 Juni | π΄σ §σ ’σ ₯σ �σ §σ Ώ Inggris vs π¬π­ Ghana | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="45" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kdr7qh1775058352.jpg",00:00 WIB - 24 Juni | 🇵🇹 Portugal vs 🇺🇿 Uzbekistan | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="46" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/e5dedu1775058350.jpg",03:00 WIB - 24 Juni | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inggris vs 🇬🇭 Ghana | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="47" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/72bcb41775058351.jpg",06:00 WIB - 24 Juni | π΅π¦ Panama vs π­π· Kroasia | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="47" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/72bcb41775058351.jpg",06:00 WIB - 24 Juni | 🇵🇦 Panama vs 🇭🇷 Kroasia | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="48" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/o44l951775058382.jpg",09:00 WIB - 24 Juni | π¨π΄ Kolombia vs π¨π© RD Kongo | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="48" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/o44l951775058382.jpg",09:00 WIB - 24 Juni | 🇨🇴 Kolombia vs 🇨🇩 RD Kongo | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="49" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/t2wxux1775058356.jpg",02:00 WIB - 25 Juni | π¨π­ Swiss vs π¨π¦ Kanada | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="49" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/t2wxux1775058356.jpg",02:00 WIB - 25 Juni | 🇨🇭 Swiss vs 🇨🇦 Kanada | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="50" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/me4ksq1775058383.jpg",02:00 WIB - 25 Juni | π§π¦ Bosnia-Herzegovina vs πΆπ¦ Qatar | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="50" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/me4ksq1775058383.jpg",02:00 WIB - 25 Juni | 🇧🇦 Bosnia-Herzegovina vs 🇶🇦 Qatar | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="51" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/99fxp31775058353.jpg",05:00 WIB - 25 Juni | π²π¦ Maroko vs π­πΉ Haiti | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="51" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/99fxp31775058353.jpg",05:00 WIB - 25 Juni | 🇲🇦 Maroko vs 🇭🇹 Haiti | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="52" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ipcah51775058354.jpg",05:00 WIB - 25 Juni | π΄σ §σ ’σ ³σ £σ ΄σ Ώ Skotlandia vs π§π· Brasil | RTB ANEKA | Gvision TV πΊ
+#EXTINF:-1 tvg-id="52" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ipcah51775058354.jpg",05:00 WIB - 25 Juni | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Skotlandia vs 🇧🇷 Brasil | RTB ANEKA | Gvision TV 📺
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 tvg-id="53" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/apzr651775058355.jpg",08:00 WIB - 25 Juni | πΏπ¦ Afrika Selatan vs π°π· Korea Selatan | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="54" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/70pe2h1775058384.jpg",08:00 WIB - 25 Juni | π¨πΏ Ceko vs π²π½ Meksiko | TUDN | Gvision TV πΊ
+#EXTINF:-1 tvg-id="53" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/apzr651775058355.jpg",08:00 WIB - 25 Juni | 🇿🇦 Afrika Selatan vs 🇰🇷 Korea Selatan | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="54" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/70pe2h1775058384.jpg",08:00 WIB - 25 Juni | 🇨🇿 Ceko vs 🇲🇽 Meksiko | TUDN | Gvision TV 📺
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
-#EXTINF:-1 tvg-id="55" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2i6gsa1775058357.jpg",03:00 WIB - 26 Juni | π¨πΌ CuraΓ§ao vs π¨π� Pantai Gading | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="56" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bgspfq1775058358.jpg",03:00 WIB - 26 Juni | πͺπ¨ Ekuador vs π©πͺ Jerman | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="57" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/p5hb8y1775058360.jpg",06:00 WIB - 26 Juni | πΉπ³ Tunisia vs π³π± Belanda | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="58" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/4no2lo1775058385.jpg",06:00 WIB - 26 Juni | π―π΅ Jepang vs πΈπͺ Swedia | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="59" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bfi9m01775058359.jpg",09:00 WIB - 26 Juni | π΅πΎ Paraguay vs π¦πΊ Australia | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="60" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/gtllwn1775058386.jpg",09:00 WIB - 26 Juni | πΉπ· Turki vs πΊπΈ Amerika Serikat | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="61" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g2uph61775058364.jpg",02:00 WIB - 27 Juni | π³π΄ Norwegia vs π«π· Prancis | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="62" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/duwfkg1775058387.jpg",02:00 WIB - 27 Juni | πΈπ³ Senegal vs π�πΆ Irak | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="63" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/fchnmj1775058361.jpg",07:00 WIB - 27 Juni | π¨π» Tanjung Verde vs πΈπ¦ Arab Saudi | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="64" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b2zc0v1775058365.jpg",07:00 WIB - 27 Juni | πΊ?? Uruguay vs πͺπΈ Spanyol | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="65" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/yane951775058362.jpg",10:00 WIB - 27 Juni | πͺπ¬ Mesir vs π�π· Iran | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="66" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/162w8r1775058363.jpg",10:00 WIB - 27 Juni | π³πΏ Selandia Baru vs π§πͺ Belgia | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="67" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/fwxopf1775058368.jpg",04:00 WIB - 28 Juni | π­π· Kroasia vs π¬π­ Ghana | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="68" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/enrwox1775058370.jpg",04:00 WIB - 28 Juni | π΅π¦ Panama vs π΄σ §σ ’σ ₯σ �σ §σ Ώ Inggris | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="69" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/u6lsyr1775058367.jpg",06:30 WIB - 28 Juni | π¨π΄ Kolombia vs π΅πΉ Portugal | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="70" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/pibln91775058388.jpg",06:30 WIB - 28 Juni | π¨π© RD Kongo vs πΊπΏ Uzbekistan | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="71" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5fca081775058366.jpg",09:00 WIB - 28 Juni | π©πΏ Aljazair vs π¦πΉ Austria | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
-#EXTINF:-1 tvg-id="72" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/aejlsx1775058369.jpg",09:00 WIB - 28 Juni | π―π΄ Yordania vs π¦π· Argentina | Gvision TV πΊ
-https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26β’-Theme.mp4
+#EXTINF:-1 tvg-id="55" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2i6gsa1775058357.jpg",03:00 WIB - 26 Juni | 🇨🇼 Curaçao vs 🇨🇮 Pantai Gading | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="56" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bgspfq1775058358.jpg",03:00 WIB - 26 Juni | 🇪🇨 Ekuador vs 🇩🇪 Jerman | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="57" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/p5hb8y1775058360.jpg",06:00 WIB - 26 Juni | 🇹🇳 Tunisia vs 🇳🇱 Belanda | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="58" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/4no2lo1775058385.jpg",06:00 WIB - 26 Juni | 🇯🇵 Jepang vs 🇸🇪 Swedia | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="59" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bfi9m01775058359.jpg",09:00 WIB - 26 Juni | 🇵🇾 Paraguay vs 🇦🇺 Australia | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="60" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/gtllwn1775058386.jpg",09:00 WIB - 26 Juni | 🇹🇷 Turki vs 🇺🇸 Amerika Serikat | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="61" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g2uph61775058364.jpg",02:00 WIB - 27 Juni | 🇳🇴 Norwegia vs 🇫🇷 Prancis | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="62" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/duwfkg1775058387.jpg",02:00 WIB - 27 Juni | 🇸🇳 Senegal vs 🇮🇶 Irak | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="63" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/fchnmj1775058361.jpg",07:00 WIB - 27 Juni | 🇨🇻 Tanjung Verde vs 🇸🇦 Arab Saudi | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="64" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b2zc0v1775058365.jpg",07:00 WIB - 27 Juni | 🇺?? Uruguay vs 🇪🇸 Spanyol | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="65" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/yane951775058362.jpg",10:00 WIB - 27 Juni | 🇪🇬 Mesir vs 🇮🇷 Iran | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="66" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/162w8r1775058363.jpg",10:00 WIB - 27 Juni | 🇳🇿 Selandia Baru vs 🇧🇪 Belgia | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="67" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/fwxopf1775058368.jpg",04:00 WIB - 28 Juni | 🇭🇷 Kroasia vs 🇬🇭 Ghana | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="68" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/enrwox1775058370.jpg",04:00 WIB - 28 Juni | 🇵🇦 Panama vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inggris | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="69" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/u6lsyr1775058367.jpg",06:30 WIB - 28 Juni | 🇨🇴 Kolombia vs 🇵🇹 Portugal | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="70" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/pibln91775058388.jpg",06:30 WIB - 28 Juni | 🇨🇩 RD Kongo vs 🇺🇿 Uzbekistan | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="71" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5fca081775058366.jpg",09:00 WIB - 28 Juni | 🇩🇿 Aljazair vs 🇦🇹 Austria | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
+#EXTINF:-1 tvg-id="72" group-title="JADWAL PIALA DUNIA" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/aejlsx1775058369.jpg",09:00 WIB - 28 Juni | 🇯🇴 Yordania vs 🇦🇷 Argentina | Gvision TV 📺
+https://ptvsportshd.com/wp-content/uploads/2026/06/The-Official-FIFA-World-Cup-26™-Theme.mp4
 
