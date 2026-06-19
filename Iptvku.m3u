@@ -1637,14 +1637,14 @@ https://dentestream.my.id/datacenter/manifest.mpd?id=21633&type=dash
 https://dentestream.my.id/datacenter/manifest.mpd?id=21289&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1y1DxTRcsr1STPt-JYxCJRNVdGr0gWJ82" group-title="8. Olahraga", RTB ANEKA
+#EXTINF:-1 tvg-logo="https://www.rtb.gov.bn/wp-content/uploads/2025/10/rtb_aneka_logo.png" group-title="8. Olahraga", RTB ANEKA
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1y1DxTRcsr1STPt-JYxCJRNVdGr0gWJ82" group-title="8. Olahraga", GO LIVE
+#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png" group-title="8. Olahraga", GO LIVE
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:network-caching=1000
