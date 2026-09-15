@@ -57,25 +57,24 @@ https://trans.diorx.my.id/cnn.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="1. Nasional ᴴᴰ", RCTI 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", MNCTV 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
-
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/gtv.jpg?raw=true" group-title="1. Nasional ᴴᴰ", GTV 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/inews.jpg?raw=true" group-title="1. Nasional ᴴᴰ", INEWS 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/inews.jpg?raw=true" group-title="1. Nasional ᴴᴰ", INEWS 
