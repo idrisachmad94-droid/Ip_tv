@@ -1,0 +1,1179 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
+
+
+==============INDOSIAR===============
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/indosiar.jpg?raw=true" group-title="Nasional ᴴᴰ", INDOSIAR 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/205.mpd
+
+#EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/indosiar.jpg?raw=true" group-title="Nasional ᴴᴰ", INDOSIAR 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=indosiar
+
+
+
+
+
+==============SCTV===============
+
+#EXTINF:-1 tvg-id="SCTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sctv.jpg?raw=true" group-title="Nasional ᴴᴰ", SCTV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/204.mpd
+
+#EXTINF:-1 tvg-id="SCTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sctv.jpg?raw=true" group-title="Nasional ᴴᴰ", SCTV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=sctv
+
+
+
+
+
+==============MOJI===============
+
+#EXTINF:-1 tvg-id="Moji" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/moji.jpg?raw=true" group-title="Nasional ᴴᴰ", MOJI 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/206.mpd
+
+#EXTINF:-1 tvg-id="Moji" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/moji.jpg?raw=true" group-title="Nasional ᴴᴰ", MOJI
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=moji
+
+
+
+
+
+==============MENTARI===============
+
+#EXTINF:-1 tvg-id="auto.mentari.tv.2" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/mentaritv.jpg?raw=true" group-title="Nasional ᴴᴰ", MENTARI TV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/8237.mpd
+
+#EXTINF:-1 tvg-id="auto.mentari.tv.2" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/mentaritv.jpg?raw=true" group-title="Nasional ᴴᴰ", MENTARI TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=20
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+
+
+
+
+
+==============SINPO TV===============
+
+#EXTINF:-1 tvg-id="SinpoTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sinpotv.jpg?raw=true" group-title="Nasional ᴴᴰ", SINPO TV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/19046.mpd
+
+#EXTINF:-1 tvg-id="SinpoTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sinpotv.jpg?raw=true" group-title="Nasional ᴴᴰ", SINPO TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=sinpotv
+
+
+
+
+
+==============RCTI===============
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="Nasional ᴴᴰ", RCTI 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="Nasional ᴴᴰ", RCTI 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true" group-title="Nasional ᴴᴰ", RCTI 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
+
+
+
+==============MNCTV===============
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true" group-title="Nasional ᴴᴰ", MNCTV 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true" group-title="Nasional ᴴᴰ", MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true" group-title="Nasional ᴴᴰ", MNCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=2
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+
+
+
+
+==============GTV===============
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/gtv.jpg?raw=true" group-title="Nasional ᴴᴰ", GTV 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/gtv.jpg?raw=true" group-title="Nasional ᴴᴰ", GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/gtv.jpg?raw=true" group-title="Nasional ᴴᴰ", GTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=3
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+
+
+
+
+==============INEWS===============
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/inews.jpg?raw=true" group-title="Nasional ᴴᴰ", INEWS 
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/inews.jpg?raw=true" group-title="Nasional ᴴᴰ", INEWS 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/inews.jpg?raw=true" group-title="Nasional ᴴᴰ", INEWS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=4
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+
+
+
+
+
+==============SINDO NEWS===============
+
+#EXTINF:-1 tvg-id="auto.sindo.news" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sindonews.jpg?raw=true" group-title="Nasional ᴴᴰ", SINDO NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
+https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+
+#EXTINF:-1 tvg-id="auto.sindo.news" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/sindonews.jpg?raw=true" group-title="Nasional ᴴᴰ", SINDO NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
+
+
+
+
+
+==============MDTV===============
+
+#EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mdtv.jpg?raw=true" group-title="Nasional ᴴᴰ", MDTV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/875.mpd
+
+#EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/mdtv.jpg?raw=true" group-title="Nasional ᴴᴰ", MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
+
+
+
+
+
+==============TRANS TV===============
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/transtv.jpg?raw=true" group-title="Nasional ᴴᴰ", TRANS TV 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/VHJhbnNUVg/manifest.mpd?signature=ZGQ2YmE4NGVhMmJiOGIzODQ4NGZkZmJhZDcyN2I4NDE=&time=77777777777&device_id=7IXVvzSbNJ39Hp_b0mAgbbOBp5XFfn0vNSN6RhA_ZEuaryTJog
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/transtv.jpg?raw=true" group-title="Nasional ᴴᴰ", TRANS TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=6
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+
+
+
+
+==============TRANS 7===============
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/trans7.jpg?raw=true" group-title="Nasional ᴴᴰ", TRANS 7 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/VFJBTlM3LW15/manifest.mpd?signature=NzVjNmUwMjZhZWQ2MTViYjEwOGJkNGE4M2YzMjMyYjQ=&time=77777777777&device_id=zG_jRjT9si_JjdpeEfQpt6wyziM__VMUTpm0-VNjgoG4mWHJbQ
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/trans7.jpg?raw=true" group-title="Nasional ᴴᴰ", TRANS 7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=7
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+
+
+
+
+==============CNBC INDONESIA===============
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://drive.google.com/uc?export=download&id=1jijKeXd_2OBdqIo_-_KGofux8GH1EUnw" group-title="Nasional ᴴᴰ", CNBC ID
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://drive.google.com/uc?export=download&id=1jijKeXd_2OBdqIo_-_KGofux8GH1EUnw" group-title="Nasional ᴴᴰ", CNBC ID
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=MzhkZjY1Y2EyMmE0MzM4MTVjOTZiNzVlZDljOGQ4YzU=&time=77777777777&device_id=TAb8c-9cSQPbVY8ExGo-E6ZsjYUISTPKwj0ieaXy5egGj0Yrsg
+
+
+
+
+
+==============CNN INDONESIA===============
+
+#EXTINF:-1 tvg-id="auto.cnn.indonesia" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/cnnid.jpg?raw=true" group-title="Nasional ᴴᴰ", CNN ID
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
+
+#EXTINF:-1 tvg-id="auto.cnn.indonesia" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/cnnid.jpg?raw=true" group-title="Nasional ᴴᴰ", CNN ID
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/Q05OaS1teQ/manifest.mpd?signature=ZTg3MDA5Yzg0MTZiMjA5ODRkMjU0YTg1YTFlMDIwY2U=&time=77777777777&device_id=VynxJ0R-jJuS-bDlYC8raLX1Ya28IkDvCxXZR2oIeB5e05wFyw
+
+
+
+
+
+==============ANTV===============
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/antv.jpg?raw=true" group-title="Nasional ᴴᴰ", ANTV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/782.mpd
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/antv.jpg?raw=true" group-title="Nasional ᴴᴰ", ANTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=10
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+
+
+
+
+==============TVONE===============
+
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/tvone.jpg?raw=true" group-title="Nasional ᴴᴰ", TVONE 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/783.mpd
+
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/tvone.jpg?raw=true" group-title="Nasional ᴴᴰ", TVONE
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=tvone
+
+
+
+
+
+==============VTV===============
+
+#EXTINF:-1 tvg-id="auto.vtv.oxy" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/vtv.jpg?raw=true" group-title="Nasional ᴴᴰ", VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
+
+
+
+
+==============GARUDA TV===============
+
+#EXTINF:-1 tvg-id="GarudaTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/garudatv.jpg?raw=true" group-title="Nasional ᴴᴰ", GARUDA TV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/18162.mpd
+
+#EXTINF:-1 tvg-id="GarudaTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/garudatv.jpg?raw=true" group-title="Nasional ᴴᴰ", GARUDA TV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=garudatv
+
+
+
+
+
+==============BERITA SATU===============
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/beritasatu.jpg?raw=true" group-title="Nasional ᴴᴰ", BERITA SATU  
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/18280.mpd
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/beritasatu.jpg?raw=true" group-title="Nasional ᴴᴰ", BERITA SATU
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=beritasatu
+
+
+
+
+
+==============BTV===============
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/btv.jpg?raw=true" group-title="Nasional ᴴᴰ", BTV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/6165.mpd
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/btv.jpg?raw=true" group-title="Nasional ᴴᴰ", BTV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=btv
+
+
+
+
+
+==============KOMPAS TV===============
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/kompastv.jpg?raw=true" group-title="Nasional ᴴᴰ", KOMPAS TV 
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/kompastv.jpg?raw=true" group-title="Nasional ᴴᴰ", KOMPAS TV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=kompastv
+
+
+
+
+
+==============METRO TV===============
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/metrotv.jpg?raw=true" group-title="Nasional ᴴᴰ", METRO TV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/777.mpd
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/metrotv.jpg?raw=true" group-title="Nasional ᴴᴰ", METRO TV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=metrotv
+
+
+
+
+
+==============NUSANTARA TV===============
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/nusantaratv.jpg?raw=true" group-title="Nasional ᴴᴰ", NTV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/7432.mpd
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/nusantaratv.jpg?raw=true" group-title="Nasional ᴴᴰ", NTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=nusantaratv
+
+
+
+
+
+==============RTV===============
+
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rtv.jpg?raw=true" group-title="Nasional ᴴᴰ", RTV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/1561.mpd
+
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/rtv.jpg?raw=true" group-title="Nasional ᴴᴰ", RTV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=rtv
+
+
+
+
+
+==============TVRI===============
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/tvri.jpg?raw=true" group-title="Nasional ᴴᴰ", TVRI 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/6441.mpd
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/tvri.jpg?raw=true" group-title="Nasional ᴴᴰ", TVRI 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=tvri
+
+
+
+
+
+==============TVRI SPORT===============
+
+#EXTINF:-1 tvg-id="TVRI Sport.id" tvg-name="TVRI Sport.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/tvrisport.jpg?raw=true" group-title="Nasional ᴴᴰ", TVRI SPORT
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=tvrisport
+
+
+
+
+
+==============MAGNA===============
+
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/magna.jpg?raw=true" group-title="Nasional ᴴᴰ", MAGNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
+
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/magna.jpg?raw=true" group-title="Nasional ᴴᴰ", MAGNA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=magna-channel
+
+
+
+
+
+==============BN===============
+
+#EXTINF:-1 tvg-id="BN.id" tvg-name="BN.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/bntv.jpg?raw=true" group-title="Nasional ᴴᴰ", BN CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=bn-channel
+
+#EXTINF:-1 tvg-id="BN.id" tvg-name="BN.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/bntv.jpg?raw=true" group-title="Nasional ᴴᴰ", BN CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h108/index.m3u8
+
+
+
+
+
+==============JAKTV===============
+
+#EXTINF:-1 tvg-id="auto.jaktv" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jaktv.jpg?raw=true" group-title="Nasional ᴴᴰ", JAKTV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/5415.mpd
+
+#EXTINF:-1 tvg-id="auto.jaktv" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jaktv.jpg?raw=true" group-title="Nasional ᴴᴰ", JAKTV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=jaktv
+
+
+
+
+
+==============JTV===============
+
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jtv.jpg?raw=true" group-title="Nasional ᴴᴰ", JTV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/9713.mpd
+
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jtv.jpg?raw=true" group-title="Nasional ᴴᴰ", JTV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=jtv
+
+
+
+
+
+==============JAWAPOS TV===============
+
+#EXTINF:-1 tvg-id="auto.jawapost.tv"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jawapost.jpg?raw=true" group-title="Nasional ᴴᴰ",  JAWAPOS TV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/9714.mpd
+
+
+
+
+==============DAAI TV===============
+
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/daaitv.jpg?raw=true" group-title="Nasional ᴴᴰ", DAAI TV 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/6482.mpd
+
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/daaitv.jpg?raw=true" group-title="Nasional ᴴᴰ", DAAI TV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=daaitv
+
+
+
+
+
+==============IDX===============
+
+#EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/news/idx.jpg?raw=true" group-title="Nasional ᴴᴰ", IDX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=134
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+
+#EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/news/idx.jpg?raw=true" group-title="Nasional ᴴᴰ", IDX 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=idx
+
+
+
+
+
+==============JAKARTA GLOBE===============
+
+#EXTINF:-1 tvg-id="auto.jakarta.globenews.channel" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/news/jakartaglobe.jpg" group-title="Nasional ᴴᴰ", JAKARTA GLOBE 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=jakarta-globe
+
+
+
+
+
+==============JOWO===============
+
+#EXTINF:-1 tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jowotv.jpg?raw=true" group-title="Nasional ᴴᴰ", JOWO
+
+
+
+#EXTINF:-1 tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/jowotv.jpg?raw=true" group-title="Nasional ᴴᴰ", JOWO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+
+
+
+
+
+==============ELSHINTA===============
+
+#EXTINF:-1 tvg-id="Elshinta TV.id" tvg-name="Elshinta TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/elshintatv.jpg?raw=true" group-title="Nasional ᴴᴰ", ELSHINTA
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bosstv.asia/yabostv/10975.mpd
+
+#EXTINF:-1 tvg-id="Elshinta TV.id" tvg-name="Elshinta TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/nasional/elshintatv.jpg?raw=true" group-title="Nasional ᴴᴰ", ELSHINTA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 13) ExoPlayerLib/2.18.1
+https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~9kP_rX2vL-qT48wY6zA1cF~3hJ5n0rB_t9uD_kM4vX6sH8jQ_yE1oW3iU5aZ7lC9fV2pT_rN6xM8qK0wB~y3uJ5hL7nP9rT2vX4zA6cF8mG0sHkzA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5k3jQ6yE9oW2iNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA58nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy_uJhLnPrTvXzAcFmGsHjQyEoWiUaZlCfVpTrNxMqKwBy~4eQ8tY1pR3NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5NxMqKwBy~4eQ8tY1pR3xM5vL7qT9wY2zA4cF6hJ8nP0rB_t~k9uD2mG5vX7sH0jQ_yE3oW6iU9aZ_lC2fV4pT_rN7xM0qK3wB~y8uJ1hL4nP6rT9vX2zA5/index.m3u8?id=elshinta
+
+
+
+
+
+
+
+
+
+
+--------------------MOVIE & ENTERTAINMENT---------------------
+
+
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/axn.jpg?raw=true" group-title="Movie & Entertainment", AXN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=79
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbo.jpg?raw=true" group-title="Movie & Entertainment", HBO 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/SEJPLW15/manifest.mpd?time=77777777777
+
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbohits.jpg?raw=true" group-title="Movie & Entertainment", HBO HITS 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/SEJPIEhpdHM/manifest.mpd?time=77777777777
+
+
+#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbofam.jpg?raw=true" group-title="Movie & Entertainment", HBO FAMILY 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/SEJPLUZhbWlseS1teQ/manifest.mpd?time=77777777777
+
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBO Signature.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbosig.jpg?raw=true" group-title="Movie & Entertainment", HBO SIGNATURE 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd?time=77777777777
+
+
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/cinemax.jpg?raw=true" group-title="Movie & Entertainment", CINEMAX 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/Q2luZW1heA/manifest.mpd?time=77777777777
+
+
+#EXTINF:-1 tvg-id="Rock Action.id" tvg-name="Rock Action.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/rockaction.jpg?raw=true" group-title="Movie & Entertainment", ROCK ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=93
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+
+#EXTINF:-1 tvg-id="Rock Entertainment.id" tvg-name="Rock Entertainment.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/rockent.jpg?raw=true" group-title="Movie & Entertainment", ROCK ENTERTAINMENT 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=92
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
+
+#EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/warner.jpg?raw=true" group-title="Movie & Entertainment", WARNER TV 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/V2FybmVyIFRW/manifest.mpd?time=77777777777
+
+
+#EXTINF:-1 tvg-id="Cinema World.id" tvg-name="Cinema World.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/cinemaworld.jpg?raw=true" group-title="Movie & Entertainment", CINEMAWORLD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/Q2luZW1hIFdvcmxk/manifest.mpd?time=77777777777
+
+
+#EXTINF:-1 tvg-id="Cineedge.id" tvg-name="Cineedge.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/cineedge.jpg?raw=true" group-title="Movie & Entertainment", CINEEDGE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=40
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+
+
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/galaxy.jpg?raw=true" group-title="Movie & Entertainment", GALAXY 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=49
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+
+#EXTINF:-1 tvg-id="Galaxy Premium.id" tvg-name="Galaxy Premium.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/galaxypremium.jpg?raw=true" group-title="Movie & Entertainment", GALAXY PREMIUM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=48
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/hits.jpg" group-title="Movie & Entertainment", HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=77
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+
+
+#EXTINF:-1 tvg-id="Hits Movies.id" tvg-name="Hits Movies.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hitsmovies.jpg" group-title="Movie & Entertainment", HITS MOVIES 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=42
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+
+
+#EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/hitsnow.jpg?raw=true" group-title="Movie & Entertainment", HITS NOW 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=68
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
+
+
+#EXTINF:-1 tvg-id="Originals.id" tvg-name="Originals.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/originals.jpg?raw=true" group-title="Movie & Entertainment", ORIGINALS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+
+
+#EXTINF:-1 tvg-id="Studio Universal.id" tvg-name="Studio Universal.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/studiouniversal.jpg?raw=true" group-title="Movie & Entertainment", STUDIO UNIVERSAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=54
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
+
+#EXTINF:-1 tvg-id="Superrix.id" tvg-name="Superrix.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/superrix.jpg?raw=true" group-title="Movie & Entertainment", SUPERRIX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=39
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
+
+#EXTINF:-1 tvg-id="Uniques.id" tvg-name="Uniques.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/uniques.jpg?raw=true" group-title="Movie & Entertainment", UNIQUES 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=38
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+
+
+
+
+---------------------------HIBURAN--------------------------------
+
+
+#EXTINF:-1 tvg-id="Kix.id" tvg-name="Kix.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/kix.jpg?raw=true" group-title="Movie & Entertainment", KIX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=75
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+
+#EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/kplus.jpg?raw=true" group-title="Movie & Entertainment", K+ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
+
+
+#EXTINF:-1 tvg-id="TVN.id" tvg-name="TVN.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/tvn.jpg?raw=true" group-title="Movie & Entertainment", TVN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=73
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+
+
+#EXTINF:-1 tvg-id="TVN Movies.id" tvg-name="TVN Movies.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/tvnmovies.jpg?raw=true" group-title="Movie & Entertainment", TVN MOVIE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=46
+
+
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/ccm.jpg?raw=true" group-title="Movie & Entertainment", CCM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=45
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+
+#EXTINF:-1 tvg-id="Celestial Movie.id" tvg-name="Celestial Movie.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/celestialmovies.jpg?raw=true" group-title="Movie & Entertainment", CELESTIAL MOVIES 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=44
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
+
+#EXTINF:-1 tvg-id="Drama Hotpot.my" tvg-name="Drama Hotpot.my"  tvg-logo="https://drive.google.com/uc?export=download&id=1oLUePAUYgjDjV0y9icPsSIIBu1H0bKdh" group-title="Movie & Entertainment", DRAMA HOTPOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/thrill.jpg?raw=true" group-title="Movie & Entertainment", THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=41
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+
+
+#EXTINF:-1 tvg-id="IMC (Indonesia Movie Channel).id" tvg-name="IMC (Indonesia Movie Channel).id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/imc.jpg?raw=true" group-title="Movie & Entertainment", IMC 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=50
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+
+#EXTINF:-1 tvg-id="Bioskop Indonesia.id" tvg-name="Bioskop Indonesia.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/bioskopid.jpg?raw=true" group-title="Movie & Entertainment", BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=NGYzMTczZWZlM2RmZDk2YjBiNzgzZTY0MTViY2NmODk=&time=77777777777&device_id=AY6jRPCj-4G7-FyBTzdTQOtlgKJZUlBSKOwz6RX9v2OCe7nVog
+
+
+#EXTINF:-1 tvg-id="Zee Bioskop.id" tvg-name="Zee Bioskop.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/zbioskop.jpg?raw=true" group-title="Movie & Entertainment", Z BIOSKOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=47
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------SPORTS------------------------
+
+
+#EXTINF:-1 tvg-id="Sportstars.id" tvg-name="Sportstars.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/sportstars.jpg?raw=true" group-title="Sports",SPORTSTARS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+
+#EXTINF:-1 tvg-id="Sportstars 2.id" tvg-name="Sportstars 2.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/sportstars2.jpg?raw=true" group-title="Sports",SPORTSTARS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+#EXTINF:-1 tvg-id="Sportstars 3.id" tvg-name="Sportstars 3.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/sportstars3.jpg?raw=true" group-title="Sports",SPORTSTARS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=114
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
+#EXTINF:-1 tvg-id="Sportstars 4.id" tvg-name="Sportstars 4.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/sportstars4.jpg?raw=true" group-title="Sports",SPORTSTARS 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=205
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+
+#EXTINF:-1 tvg-id="Soccer Channel.id" tvg-name="Soccer Channel.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/soccer.jpg?raw=true" group-title="Sports",SOCCER CHANNEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS.id" tvg-name="beIN SPORTS.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/beinsports.jpg?raw=true" group-title="Sports",BEIN SPORTS 1 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=122
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2.id" tvg-name="beIN SPORTS 2.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/beinsports2.jpg?raw=true" group-title="Sports",BEIN SPORTS 2 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=123
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3.id" tvg-name="beIN SPORTS 3.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/beinsports3.jpg?raw=true" group-title="Sports",BEIN SPORTS  3 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=124
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#EXTINF:-1 tvg-id="SpoTV 1.id" tvg-name="SpoTV 1.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/spotv.jpg?raw=true" group-title="Sports",SPOTV 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=119
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+
+#EXTINF:-1 tvg-id="SpoTV 2.id" tvg-name="SpoTV 2.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/spotv2.jpg?raw=true" group-title="Sports",SPOTV 2 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+
+#EXTINF:-1 tvg-id="Bein 1.id" tvg-name="Bein 1.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/beinsports.jpg?raw=true" group-title="Sports",BEIN SPORTS 1 🇦🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="Bein 2.id" tvg-name="Bein 2.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/beinsports2.jpg?raw=true" group-title="Sports",BEIN SPORTS 2 🇦🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="Bein 3.id" tvg-name="Bein 3.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/beinsports3.jpg?raw=true" group-title="Sports",BEIN SPORTS 3 🇦🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/spotv.jpg?raw=true" group-title="Sports",SPOTV 🇵🇭
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+
+#EXTINF:-1 tvg-id="SPOTV 2.id" tvg-name="SPOTV 2.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/spotv2.jpg?raw=true" group-title="Sports",SPOTV 2 🇵🇭
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/4jiDLCQ" group-title="Sports",BEIN SPORT XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/wsports.jpg?raw=true" group-title="Sports", W SPORTS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
+https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/MotoGP.png",MOTOGP TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/F1%20tv.png",F1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1qocIoGtNkDNcQjyNV1u9hwe8QXC8jKHv" group-title="Sports",SPORT DIGITAL FUSSBALL 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://drive.google.com/uc?export=download&id=1fOoJHBaYXZXX1mvyOeLOVOsx1lckzLqj",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd 
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://drive.google.com/uc?export=download&id=10KRE54XThozDFWRcWukCnJ7-7GbXF-bO",TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://drive.google.com/uc?export=download&id=1Kmz1k3NUbLHWzyz2t7k_o8lJC-DFB0z5",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://drive.google.com/uc?export=download&id=158xOdNZqWF78XV8RhRJ3E7S6S1UKk0UU" ,TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=download&id=1BQbyQr4qjkkhOdE4phiEEdKQcApEX-mm" group-title="Sports",DAZN FAST 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+
+
+
+
+
+
+
+
+
+--------------------ANAK-ANAK---------------------
+
+
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/animax.jpg" group-title="Kids",ANIMAX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=65
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/animax.jpg" group-title="Kids",ANIMAX
+https://cdnbal1.indihometv.com/atm/DASH/animax/animax-avc1_2500000=7-3277707030000000.mpd
+
+
+#EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/cartoonito.jpg?raw=true" group-title="Kids",CARTOONITO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+
+
+#EXTINF:-1 tvg-id="Cbeebies.id" tvg-name="Cbeebies.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/cbeebies.jpg?raw=true" group-title="Kids",CBEEBIES 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=58
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+
+
+#EXTINF:-1 tvg-id="My.Kidz.id" tvg-name="My.Kidz.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/mykidz.jpg?raw=true" group-title="Kids",MYKIDZ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707030000000.mpd
+
+
+#EXTINF:-1 tvg-id="Buddy Star.id" tvg-name="Buddy Star.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/buddystar.jpg?raw=true" group-title="Kids", BUDDY STAR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=37
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+
+
+#EXTINF:-1 tvg-id="Dreamworks.id" tvg-name="Dreamworks.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/dreamworks.jpg?raw=true" group-title="Kids",DREAMWORKS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=67
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
+
+#EXTINF:-1 tvg-id="Kids TV.id" tvg-name="Kids TV.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/kidstv.jpg?raw=true" group-title="Kids",KIDS TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=56
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+
+
+#EXTINF:-1 tvg-id="Moonbug.id" tvg-name="Moonbug.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/moonbug.jpg?raw=true" group-title="Kids",MOONBUG 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=57
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+
+
+#EXTINF:-1 tvg-id="Nick.id" tvg-name="Nick.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/nick.jpg?raw=true" group-title="Kids",NICKELODEON 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=64
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+
+
+#EXTINF:-1 tvg-id="Nick Jr.id" tvg-name="Nick Jr.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/nickjr.jpg?raw=true" group-title="Kids",NICK JR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=60
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+
+
+#EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon.Network.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/cn.jpg?raw=true" group-title="Kids",CARTOON NETWORK 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/Q2FydG9vbiBOZXR3b3Jr/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Zoo Moo.id" tvg-name="Zoo Moo.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/kids/zoomoo.jpg?raw=true" group-title="Kids",ZOO MOO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+
+
+
+
+
+
+
+
+
+
+
