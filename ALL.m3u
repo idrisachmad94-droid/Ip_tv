@@ -808,6 +808,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=75
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
+#EXTINF:-1 tvg-id="Kix.id" tvg-name="Kix.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/kix.jpg?raw=true" group-title="Movie & Entertainment", KIX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
+
 
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/kplus.jpg?raw=true" group-title="Movie & Entertainment", K+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -859,6 +863,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=44
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
+#EXTINF:-1 tvg-id="Celestial Movie.id" tvg-name="Celestial Movie.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/celestialmovies.jpg?raw=true" group-title="Movie & Entertainment", CELESTIAL MOVIES 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/celestialmovie-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="Drama Hotpot.my" tvg-name="Drama Hotpot.my"  tvg-logo="https://drive.google.com/uc?export=download&id=1oLUePAUYgjDjV0y9icPsSIIBu1H0bKdh" group-title="Movie & Entertainment", DRAMA HOTPOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
