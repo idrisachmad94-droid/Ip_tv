@@ -640,6 +640,17 @@ https://oxy.media-my.workers.dev/1pT4rN7xM0qTrNxMqKwBy_uJhLnPrTvXzAicFmGsHjQyEoW
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=79
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/axn.jpg?raw=true" group-title="Movie & Entertainment", AXN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/QVhOLW15/manifest.mpd?time=77777777777
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/axn.jpg?raw=true" group-title="Movie & Entertainment", AXN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
+
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/hbo.jpg?raw=true" group-title="Movie & Entertainment", HBO 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -810,12 +821,20 @@ https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=73
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
+#EXTINF:-1 tvg-id="TVN.id" tvg-name="TVN.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/tvn.jpg?raw=true" group-title="Movie & Entertainment", TVN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cdnbal1.indihometv.com/atm/DASH/tvn/tvn-avc1_2500000=7-3277707030000000.mpd
+
 
 #EXTINF:-1 tvg-id="TVN Movies.id" tvg-name="TVN Movies.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/tvnmovies.jpg?raw=true" group-title="Movie & Entertainment", TVN MOVIE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=46
+
+#EXTINF:-1 tvg-id="TVN Movies.id" tvg-name="TVN Movies.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/tvnmovies.jpg?raw=true" group-title="Movie & Entertainment", TVN MOVIE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cdnbal1.indihometv.com/atm/DASH/tvnmovies/tvnmovies-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/ccm.jpg?raw=true" group-title="Movie & Entertainment", CCM 
@@ -845,6 +864,10 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=41
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/thrill.jpg?raw=true" group-title="Movie & Entertainment", THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-id="IMC (Indonesia Movie Channel).id" tvg-name="IMC (Indonesia Movie Channel).id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/imc.jpg?raw=true" group-title="Movie & Entertainment", IMC 
