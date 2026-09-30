@@ -831,10 +831,17 @@ https://cdnbal1.indihometv.com/atm/DASH/tvn/tvn-avc1_2500000=7-3277707030000000.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=46
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 tvg-id="TVN Movies.id" tvg-name="TVN Movies.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/tvnmovies.jpg?raw=true" group-title="Movie & Entertainment", TVN MOVIE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://cdnbal1.indihometv.com/atm/DASH/tvnmovies/tvnmovies-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="TVN Movies.id" tvg-name="TVN Movies.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/tvnmovies.jpg?raw=true" group-title="Movie & Entertainment", TVN MOVIE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/VFZOIE1vdmllcw/manifest.mpd?signature=MmIwYWZmMTRiZjRmZjYwMjBiYmU5NDJmYmJmZmQ2YzU=&time=77777777777&device_id=zbMFA3Dd4u1yE1EiZW0DHsLpTN_UltV9neTFNNL0X9RvdI31MA
 
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM.id"  tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/ccm.jpg?raw=true" group-title="Movie & Entertainment", CCM 
